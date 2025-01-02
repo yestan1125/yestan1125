@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## About Me
 
 - 🌱 I’m currently learning CS and AI.
-- 🤔 I’m looking for help with (emm...maybe...)the aspects i'm learning?
+- 🤔 I’m looking for help with (emm...maybe...) the aspects i'm learning?
 - 📫 How to reach me: yestan605@gmail.com or 19083289426@163.com .
 
 ## GitHub Stats
