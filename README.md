@@ -1,12 +1,13 @@
 # Hi there, I'm Yestan! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects.
+Welcome to my GitHub profile! I'm a passionate student who loves to explore new technologies and build exciting projects.
 
 ## About Me
 
 - 🌱 I’m currently learning CS and AI.
-- 🤔 I’m looking for help with (emm...maybe...) the aspects i'm learning?
-- 📫 How to reach me: yestan605@gmail.com or 19083289426@163.com .
+- 🤔 I’m looking for help with the aspects i'm learning.
+- 📫 How to reach me: yestan605@gmail.com or 19083289426@163.com.
+- 😊 I'm interestied in reading, running and travling. 
 
 ## GitHub Stats
 
