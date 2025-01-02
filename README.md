@@ -1,6 +1,6 @@
 # Hi there, I'm Yestan! 👋
 
-Welcome to my GitHub profile! I'm a passionate student who loves to explore new technologies and build exciting projects.
+Welcome to my GitHub profile! I'm a passionate student who loves to explore new technologies and want to become more aexcellent.
 
 ## About Me
 
