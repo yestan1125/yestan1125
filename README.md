@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate student who loves to explore new 
 - 🌱 I’m currently learning CS and AI.
 - 🤔 I’m looking for help with the aspects i'm learning.
 - 📫 How to reach me: yestan605@gmail.com or 19083289426@163.com.
-- 😊 I'm interestied in reading, running and travling. 
+- 😊 I'm interestied in reading, running and travling.
+- May there be no cancer in the world
 
 ## GitHub Stats
 
