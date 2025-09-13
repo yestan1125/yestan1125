@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## About Me
 
 - 🌱 I’m currently learning AI.
-- 🤔 The abilities I currently possess : Embedded development, a little computer version.
+- 🤔 The abilities I currently possess : Embedded development, a little computer vision.
 - 📫 How to reach me: yestan605@gmail.com.
 - 😊 I'm interestied in reading, running and travling.
 - 🫡 Solve the most urgent problem at present！
